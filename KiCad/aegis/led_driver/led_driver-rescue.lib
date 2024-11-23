@@ -1,0 +1,88 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# NJW4616U2-SamacSys_Parts
+#
+DEF NJW4616U2-SamacSys_Parts J 0 30 Y Y 1 F N
+F0 "J" 1150 300 50 H V L CNN
+F1 "NJW4616U2-SamacSys_Parts" 1150 200 50 H V L CNN
+F2 "NJW4616U2" 1150 100 50 H I L CNN
+F3 "https://www.njr.com/electronic_device/PDF/NJW4616_E.pdf" 1150 0 50 H I L CNN
+F4 "LED Lighting Drivers Constant Current LED Driver PWM 40V 450uA" 1150 -100 50 H I L CNN "Description"
+F5 "1.8" 1150 -200 50 H I L CNN "Height"
+F6 "Japan Aviation Electronics Ind" 1150 -500 50 H I L CNN "Manufacturer_Name"
+F7 "NJW4616U2" 1150 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 1100 100 1100 -400 200 -400 200 100 N
+X EN/PWM 1 0 0 200 R 50 50 0 0 P
+X GND_1 2 0 -100 200 R 50 50 0 0 P
+X RS 3 0 -200 200 R 50 50 0 0 P
+X LED 4 0 -300 200 R 50 50 0 0 P
+X GND_2 5 1300 0 200 L 50 50 0 0 P
+X VDD 6 1300 -100 200 L 50 50 0 0 P
+X GND_3 7 1300 -200 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# OSXX0603C1E-SamacSys_Parts
+#
+DEF OSXX0603C1E-SamacSys_Parts LED 0 30 Y Y 1 F N
+F0 "LED" 500 350 50 H V L BNN
+F1 "OSXX0603C1E-SamacSys_Parts" 500 250 50 H V L BNN
+F2 "OSXX0603C1E" 500 150 50 H I L BNN
+F3 "https://datasheet.lcsc.com/szlcsc/OptoSupply-OSK40603C1E_C268294.pdf" 500 50 50 H I L BNN
+F4 "1.6 x 0.8mm Chip LED" 500 -50 50 H I L BNN "Description"
+F5 "0.7" 500 -150 50 H I L BNN "Height"
+F6 "OptoSupply" 500 -250 50 H I L BNN "Manufacturer_Name"
+F7 "OSXX0603C1E" 500 -350 50 H I L BNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 200 100 200 -100 N
+P 2 0 1 6 250 100 150 200 N
+P 2 0 1 6 350 100 250 200 N
+P 2 0 1 6 400 0 500 0 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+P 4 0 1 10 210 170 180 140 150 200 210 170 F
+P 4 0 1 10 310 170 280 140 250 200 310 170 F
+X ~ 1 600 0 100 L 50 50 0 0 P
+X ~ 2 0 0 100 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# RK73B2BTTD1R0J-SamacSys_Parts
+#
+DEF RK73B2BTTD1R0J-SamacSys_Parts R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "RK73B2BTTD1R0J-SamacSys_Parts" 550 150 50 H V L CNN
+F2 "RESC3216X80N" 550 50 50 H I L CNN
+F3 "https://rs.componentsearchengine.com/Datasheets/1/RK73B2BTTD1R0J.pdf" 550 -50 50 H I L CNN
+F4 "Thick Film Resistors - SMD 1/4watts 1ohms 5%" 550 -150 50 H I L CNN "Description"
+F5 "0.8" 550 -250 50 H I L CNN "Height"
+F6 "KOA Speer" 550 -550 50 H I L CNN "Manufacturer_Name"
+F7 "RK73B2BTTD1R0J" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# RK73B2BTTD221J-SamacSys_Parts
+#
+DEF RK73B2BTTD221J-SamacSys_Parts R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "RK73B2BTTD221J-SamacSys_Parts" 550 150 50 H V L CNN
+F2 "RESC3216X70N" 550 50 50 H I L CNN
+F3 "https://rs.componentsearchengine.com/Datasheets/2/RK73B2BTTD221J.pdf" 550 -50 50 H I L CNN
+F4 "KOA - RK73B2BTTD221J. - SMD Chip Resistor, 220 ohm, +/- 5%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose" 550 -150 50 H I L CNN "Description"
+F5 "0.7" 550 -250 50 H I L CNN "Height"
+F6 "KOA Speer" 550 -550 50 H I L CNN "Manufacturer_Name"
+F7 "RK73B2BTTD221J" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

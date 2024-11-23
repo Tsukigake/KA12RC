@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name line_sensor_controler-rescue)(type Legacy)(uri ${KIPRJMOD}/line_sensor_controler-rescue.lib)(options "")(descr ""))
+)

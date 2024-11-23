@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "IDMP_Mk1")(type "KiCad")(uri "${KIPRJMOD}/IDMP_Mk1.kicad_sym")(options "")(descr ""))
+)

@@ -1,0 +1,26 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(5.1.8)-1*%
+%TF.CreationDate,2021-03-06T21:21:54+09:00*%
+%TF.ProjectId,led_driver,6c65645f-6472-4697-9665-722e6b696361,rev?*%
+%TF.SameCoordinates,PX7df6180PY3a22d00*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (5.1.8)-1) date 2021-03-06 21:21:54*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X27940000Y0D02*
+X0Y0D01*
+X27940000Y17780000D02*
+X27940000Y0D01*
+X0Y17780000D02*
+X27940000Y17780000D01*
+X0Y17780000D02*
+X0Y0D01*
+M02*

@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 3362P-1-203LF-SamacSys_Parts
+#
+DEF 3362P-1-203LF-SamacSys_Parts R 0 30 Y Y 1 F N
+F0 "R" 950 300 50 H V L CNN
+F1 "3362P-1-203LF-SamacSys_Parts" 950 200 50 H V L CNN
+F2 "3362P_1" 950 100 50 H I L CNN
+F3 "https://www.bourns.com/docs/Product-Datasheets/3362.pdf" 950 0 50 H I L CNN
+F4 "Bourns 3362P Series Through Hole Trimmer Resistor with Pin Terminations, 20k +/-10% 0.5W +/-100ppm/C Top Adjust" 950 -100 50 H I L CNN "Description"
+F5 "652-3362P-1-203LF" 950 -300 50 H I L CNN "Mouser Part Number"
+F6 "https://www.mouser.co.uk/ProductDetail/Bourns/3362P-1-203LF?qs=GslmPyR0hhF1JBua3W6Xbw%3D%3D" 950 -400 50 H I L CNN "Mouser Price/Stock"
+F7 "Bourns" 950 -500 50 H I L CNN "Manufacturer_Name"
+F8 "3362P-1-203LF" 950 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 900 100 900 -200 200 -200 200 100 N
+X CCW 1 0 0 200 R 50 50 0 0 P
+X WIPER 2 1100 0 200 L 50 50 0 0 P
+X CW 3 0 -100 200 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

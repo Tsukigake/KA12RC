@@ -1,0 +1,114 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# Connector_Conn_01x02_Female
+#
+DEF Connector_Conn_01x02_Female J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Conn_01x02_Female" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+A 0 -100 20 901 -901 1 1 6 N 0 -80 0 -120
+A 0 0 20 901 -901 1 1 6 N 0 20 0 -20
+P 2 1 1 6 -50 -100 -20 -100 N
+P 2 1 1 6 -50 0 -20 0 N
+X Pin_1 1 -200 0 150 R 50 50 1 1 P
+X Pin_2 2 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# Connector_Conn_01x02_Male
+#
+DEF Connector_Conn_01x02_Male J 0 40 Y N 1 F N
+F0 "J" 0 100 50 H V C CNN
+F1 "Connector_Conn_01x02_Male" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S 34 -95 0 -105 1 1 6 F
+S 34 5 0 -5 1 1 6 F
+P 2 1 1 6 50 -100 34 -100 N
+P 2 1 1 6 50 0 34 0 N
+X Pin_1 1 200 0 150 L 50 50 1 1 P
+X Pin_2 2 200 -100 150 L 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# NJM7805SDL1_NJM7805SDL1
+#
+DEF NJM7805SDL1_NJM7805SDL1 U 0 40 Y Y 1 F N
+F0 "U" 0 150 50 H V C CNN
+F1 "NJM7805SDL1_NJM7805SDL1" 0 250 50 H V C CNN
+F2 "" -50 50 50 H I C CNN
+F3 "" -50 50 50 H I C CNN
+DRAW
+S -200 100 200 -100 0 1 0 N
+X IN 1 -300 50 100 R 50 50 1 1 P
+X OUT 2 300 50 100 L 50 50 1 1 P
+X GND 3 -300 -50 100 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
+# SamacSys_Parts_2MS1T1B4M2QES
+#
+DEF SamacSys_Parts_2MS1T1B4M2QES S 0 30 Y Y 1 F N
+F0 "S" 750 300 50 H V L CNN
+F1 "SamacSys_Parts_2MS1T1B4M2QES" 750 200 50 H V L CNN
+F2 "2MS1T1B4M2QES" 750 100 50 H I L CNN
+F3 "https://akizukidenshi.com/download/2MS1-T1-B4-M2-Q-E-S.pdf" 750 0 50 H I L CNN
+F4 "Toggle Switches Sub-Miniature SPDT switch on-on pc thru-hole" 750 -100 50 H I L CNN "Description"
+F5 "23.63" 750 -200 50 H I L CNN "Height"
+F6 "Dailywell" 750 -500 50 H I L CNN "Manufacturer_Name"
+F7 "2MS1T1B4M2QES" 750 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 700 100 700 -300 200 -300 200 100 N
+X NO 1 0 -200 200 R 50 50 0 0 P
+X COM 2 0 -100 200 R 50 50 0 0 P
+X NC 3 0 0 200 R 50 50 0 0 N
+ENDDRAW
+ENDDEF
+#
+# SamacSys_Parts_ER504_AY_10001
+#
+DEF SamacSys_Parts_ER504_AY_10001 D 0 30 Y Y 1 F N
+F0 "D" 450 200 50 H V L CNN
+F1 "SamacSys_Parts_ER504_AY_10001" 450 100 50 H V L CNN
+F2 "DIOAD2855W130L835D505" 450 0 50 H I L CNN
+F3 "" 450 -100 50 H I L CNN
+F4 "Rectifiers PEC/ER504/TB/52mm/RoHS/1.25K/DO-201AD/ER/AXIAL/ERG-50/ER50-QI01/PJ///" 450 -200 50 H I L CNN "Description"
+F5 "PANJIT" 450 -600 50 H I L CNN "Manufacturer_Name"
+F6 "ER504_AY_10001" 450 -700 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 2 0 1 6 200 100 200 -100 N
+P 4 0 1 10 200 0 400 100 400 -100 200 0 F
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 600 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# SamacSys_Parts_FUC-03A
+#
+DEF SamacSys_Parts_FUC-03A U 0 30 Y Y 1 F N
+F0 "U" 650 300 50 H V L CNN
+F1 "SamacSys_Parts_FUC-03A" 650 200 50 H V L CNN
+F2 "FUC03A" 650 100 50 H I L CNN
+F3 "http://www.kangyang.com/Product/Sup_duct.php?duct=FUC-03A" 650 0 50 H I L CNN
+F4 "FUSE HOLDER" 650 -100 50 H I L CNN "Description"
+F5 "8.8" 650 -200 50 H I L CNN "Height"
+F6 "Kang Yang" 650 -500 50 H I L CNN "Manufacturer_Name"
+F7 "FUC-03A" 650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 P
+X 2 2 0 -100 200 R 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\Mitsuyoshi Sugaya\Desktop\KiCad\Prototype\Power Module Mk1\Power Module Mk1.kicad_sch</source>
+    <date>2021/12/30 10:25:43</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Power Module Mk1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>GRM188R61A226ME15J</value>
+      <footprint>SamacSys_Parts:CAPC1608X90N</footprint>
+      <datasheet>http://componentsearchengine.com/Datasheets/1/GRM188R61A226ME15J.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 22uF 10volts *Derate Voltage/Temp</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R61A226ME15J</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="GRM188R61A226ME15J" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 22uF 10volts *Derate Voltage/Temp"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 22uF 10volts *Derate Voltage/Temp"/>
+      <property name="Height" value="0.9"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM188R61A226ME15J"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ad556f78-a578-4aad-b857-bbf9274d349f</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>GRM188R61A226ME15J</value>
+      <footprint>SamacSys_Parts:CAPC1608X90N</footprint>
+      <datasheet>http://componentsearchengine.com/Datasheets/1/GRM188R61A226ME15J.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 22uF 10volts *Derate Voltage/Temp</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R61A226ME15J</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="GRM188R61A226ME15J" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 22uF 10volts *Derate Voltage/Temp"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 22uF 10volts *Derate Voltage/Temp"/>
+      <property name="Height" value="0.9"/>
+      <property name="RS Part Number" value=""/>
+      <property name="RS Price/Stock" value=""/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM188R61A226ME15J"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>911e095e-8926-48ad-844e-151fd6fadf2f</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>GRM188R6YA106MA73D</value>
+      <footprint>SamacSys_Parts:CAPC1608X90N</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/1726888P</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R6YA106MA73D</field>
+        <field name="RS Part Number">1726888P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1726888P</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="GRM188R6YA106MA73D" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp"/>
+      <property name="Height" value="0.9"/>
+      <property name="RS Part Number" value="1726888P"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/1726888P"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM188R6YA106MA73D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cd64db6f-bc3c-4c77-b8c3-22411a6dc20e</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>GRM188R6YA106MA73D</value>
+      <footprint>SamacSys_Parts:CAPC1608X90N</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/1726888P</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R6YA106MA73D</field>
+        <field name="RS Part Number">1726888P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1726888P</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="GRM188R6YA106MA73D" description="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp"/>
+      <property name="Description" value="Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp"/>
+      <property name="Height" value="0.9"/>
+      <property name="RS Part Number" value="1726888P"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/1726888P"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="GRM188R6YA106MA73D"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f3809b97-e1da-4ef0-9637-e31738157da5</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>SS10P6-M3_86A</value>
+      <footprint>SamacSys_Parts:SS10P6M386A</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/7103667P</datasheet>
+      <fields>
+        <field name="Allied_Number">70217450</field>
+        <field name="Description">Diode Schottky 60V 10A  SMPC</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">SS10P6-M3/86A</field>
+        <field name="RS Part Number">7103667P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/7103667P</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SS10P6-M3_86A" description="Diode Schottky 60V 10A  SMPC"/>
+      <property name="Description" value="Diode Schottky 60V 10A  SMPC"/>
+      <property name="Height" value="1.2"/>
+      <property name="RS Part Number" value="7103667P"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/7103667P"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="SS10P6-M3/86A"/>
+      <property name="Allied_Number" value="70217450"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f340fc9c-f609-433e-8872-147b1866bc5b</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>SS10P6-M3_86A</value>
+      <footprint>SamacSys_Parts:SS10P6M386A</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/7103667P</datasheet>
+      <fields>
+        <field name="Allied_Number">70217450</field>
+        <field name="Description">Diode Schottky 60V 10A  SMPC</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">SS10P6-M3/86A</field>
+        <field name="RS Part Number">7103667P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/7103667P</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="SS10P6-M3_86A" description="Diode Schottky 60V 10A  SMPC"/>
+      <property name="Description" value="Diode Schottky 60V 10A  SMPC"/>
+      <property name="Height" value="1.2"/>
+      <property name="RS Part Number" value="7103667P"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/7103667P"/>
+      <property name="Manufacturer_Name" value="Vishay"/>
+      <property name="Manufacturer_Part_Number" value="SS10P6-M3/86A"/>
+      <property name="Allied_Number" value="70217450"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abfbd619-7cca-4c0a-9288-874d424313a3</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>77dd35f5-db68-4c41-a23e-d23d1b7f82c7</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>0031.8201</value>
+      <footprint>SamacSys_Parts:0031.8201</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/2508764386</datasheet>
+      <fields>
+        <field name="Description">Fuse Holder FUSE-HOLDER OGN</field>
+        <field name="Manufacturer_Name">SCHURTER</field>
+        <field name="Manufacturer_Part_Number">0031.8201</field>
+        <field name="RS Part Number">2508764386</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/2508764386</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="0031.8201" description="Fuse Holder FUSE-HOLDER OGN"/>
+      <property name="Description" value="Fuse Holder FUSE-HOLDER OGN"/>
+      <property name="Height" value=""/>
+      <property name="RS Part Number" value="2508764386"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/2508764386"/>
+      <property name="Manufacturer_Name" value="SCHURTER"/>
+      <property name="Manufacturer_Part_Number" value="0031.8201"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b0d0a17b-a585-4789-8fa3-c86fc5c460c0</tstamps>
+    </comp>
+    <comp ref="PS1">
+      <value>OKL-T_6-W12N-C</value>
+      <footprint>SamacSys_Parts:OKLT6W12NC</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/1736944</datasheet>
+      <fields>
+        <field name="Description">Non-Isolated DC/DC Converters 12Vin .59-5.5Vout 6A 30W Neg Polarity</field>
+        <field name="Height">7.2</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">OKL-T/6-W12N-C</field>
+        <field name="RS Part Number">1736944</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1736944</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="OKL-T_6-W12N-C" description="Non-Isolated DC/DC Converters 12Vin .59-5.5Vout 6A 30W Neg Polarity"/>
+      <property name="Description" value="Non-Isolated DC/DC Converters 12Vin .59-5.5Vout 6A 30W Neg Polarity"/>
+      <property name="Height" value="7.2"/>
+      <property name="RS Part Number" value="1736944"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/1736944"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="OKL-T/6-W12N-C"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a8cdda0e-7b06-4b92-8078-341b4e32614a</tstamps>
+    </comp>
+    <comp ref="PS2">
+      <value>OKL-T_6-W12N-C</value>
+      <footprint>SamacSys_Parts:OKLT6W12NC</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/1736944</datasheet>
+      <fields>
+        <field name="Description">Non-Isolated DC/DC Converters 12Vin .59-5.5Vout 6A 30W Neg Polarity</field>
+        <field name="Height">7.2</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">OKL-T/6-W12N-C</field>
+        <field name="RS Part Number">1736944</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1736944</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="OKL-T_6-W12N-C" description="Non-Isolated DC/DC Converters 12Vin .59-5.5Vout 6A 30W Neg Polarity"/>
+      <property name="Description" value="Non-Isolated DC/DC Converters 12Vin .59-5.5Vout 6A 30W Neg Polarity"/>
+      <property name="Height" value="7.2"/>
+      <property name="RS Part Number" value="1736944"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/1736944"/>
+      <property name="Manufacturer_Name" value="Murata Electronics"/>
+      <property name="Manufacturer_Part_Number" value="OKL-T/6-W12N-C"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82c3fcff-0c4d-46ec-9117-fd4b044c0976</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>RK73B1JTTD102J</value>
+      <footprint>SamacSys_Parts:RESC1608X55N</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/0431495</datasheet>
+      <fields>
+        <field name="Description">Thick Film Resistors - SMD 1/10watts 1Kohms 5%</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">KOA Speer</field>
+        <field name="Manufacturer_Part_Number">RK73B1JTTD102J</field>
+        <field name="RS Part Number">0431495</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/0431495</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="RK73B1JTTD102J" description="Thick Film Resistors - SMD 1/10watts 1Kohms 5%"/>
+      <property name="Description" value="Thick Film Resistors - SMD 1/10watts 1Kohms 5%"/>
+      <property name="Height" value="0.55"/>
+      <property name="RS Part Number" value="0431495"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/0431495"/>
+      <property name="Manufacturer_Name" value="KOA Speer"/>
+      <property name="Manufacturer_Part_Number" value="RK73B1JTTD102J"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbac753f-2170-4898-af70-8e6dd2214afb</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>RK73B1JTTD152J</value>
+      <footprint>SamacSys_Parts:RESC1608X55N</footprint>
+      <datasheet>http://uk.rs-online.com/web/p/products/0431518</datasheet>
+      <fields>
+        <field name="Description">KOA Thick Film Surface Mount Resistor 0603 Case 1.5k +/-5% 0.1W +/-200ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="Manufacturer_Name">KOA Speer</field>
+        <field name="Manufacturer_Part_Number">RK73B1JTTD152J</field>
+        <field name="RS Part Number">0431518</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/0431518</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="RK73B1JTTD152J" description="KOA Thick Film Surface Mount Resistor 0603 Case 1.5k +/-5% 0.1W +/-200ppm/C"/>
+      <property name="Description" value="KOA Thick Film Surface Mount Resistor 0603 Case 1.5k +/-5% 0.1W +/-200ppm/C"/>
+      <property name="Height" value="0.55"/>
+      <property name="RS Part Number" value="0431518"/>
+      <property name="RS Price/Stock" value="http://uk.rs-online.com/web/p/products/0431518"/>
+      <property name="Manufacturer_Name" value="KOA Speer"/>
+      <property name="Manufacturer_Part_Number" value="RK73B1JTTD152J"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>85d68800-ca9c-44bc-ab02-a60d91cc5e85</tstamps>
+    </comp>
+    <comp ref="VR1">
+      <value>3296W-1-102LF</value>
+      <footprint>SamacSys_Parts:3296W1102LF</footprint>
+      <datasheet>http://befr.rs-online.com/web/p/products/5219631</datasheet>
+      <fields>
+        <field name="Allied_Number">70153917</field>
+        <field name="Description">Trimmer Resistors - Through Hole 3/8" 1Kohms Sealed Vertical Adjust</field>
+        <field name="Height">11.8</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">3296W-1-102LF</field>
+        <field name="RS Part Number">5219631</field>
+        <field name="RS Price/Stock">http://befr.rs-online.com/web/p/products/5219631</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="3296W-1-102LF" description="Trimmer Resistors - Through Hole 3/8&quot; 1Kohms Sealed Vertical Adjust"/>
+      <property name="Description" value="Trimmer Resistors - Through Hole 3/8&quot; 1Kohms Sealed Vertical Adjust"/>
+      <property name="Height" value="11.8"/>
+      <property name="RS Part Number" value="5219631"/>
+      <property name="RS Price/Stock" value="http://befr.rs-online.com/web/p/products/5219631"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="3296W-1-102LF"/>
+      <property name="Allied_Number" value="70153917"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>648b87b6-6499-4832-b6db-524bae471da0</tstamps>
+    </comp>
+    <comp ref="VR2">
+      <value>3296W-1-102LF</value>
+      <footprint>SamacSys_Parts:3296W1102LF</footprint>
+      <datasheet>http://befr.rs-online.com/web/p/products/5219631</datasheet>
+      <fields>
+        <field name="Allied_Number">70153917</field>
+        <field name="Description">Trimmer Resistors - Through Hole 3/8" 1Kohms Sealed Vertical Adjust</field>
+        <field name="Height">11.8</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">3296W-1-102LF</field>
+        <field name="RS Part Number">5219631</field>
+        <field name="RS Price/Stock">http://befr.rs-online.com/web/p/products/5219631</field>
+      </fields>
+      <libsource lib="SamacSys_Parts" part="3296W-1-102LF" description="Trimmer Resistors - Through Hole 3/8&quot; 1Kohms Sealed Vertical Adjust"/>
+      <property name="Description" value="Trimmer Resistors - Through Hole 3/8&quot; 1Kohms Sealed Vertical Adjust"/>
+      <property name="Height" value="11.8"/>
+      <property name="RS Part Number" value="5219631"/>
+      <property name="RS Price/Stock" value="http://befr.rs-online.com/web/p/products/5219631"/>
+      <property name="Manufacturer_Name" value="Bourns"/>
+      <property name="Manufacturer_Part_Number" value="3296W-1-102LF"/>
+      <property name="Allied_Number" value="70153917"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="Power Module Mk1.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19e4ca0e-444b-4e6e-a1f2-a7cc7ff5326b</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="0031.8201">
+      <description>Fuse Holder FUSE-HOLDER OGN</description>
+      <docs>http://uk.rs-online.com/web/p/products/2508764386</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">0031.8201</field>
+        <field name="Footprint">0031.8201</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/2508764386</field>
+        <field name="Description">Fuse Holder FUSE-HOLDER OGN</field>
+        <field name="RS Part Number">2508764386</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/2508764386</field>
+        <field name="Manufacturer_Name">SCHURTER</field>
+        <field name="Manufacturer_Part_Number">0031.8201</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="3296W-1-102LF">
+      <description>Trimmer Resistors - Through Hole 3/8" 1Kohms Sealed Vertical Adjust</description>
+      <docs>http://befr.rs-online.com/web/p/products/5219631</docs>
+      <fields>
+        <field name="Reference">VR</field>
+        <field name="Value">3296W-1-102LF</field>
+        <field name="Footprint">3296W1102LF</field>
+        <field name="Datasheet">http://befr.rs-online.com/web/p/products/5219631</field>
+        <field name="Description">Trimmer Resistors - Through Hole 3/8" 1Kohms Sealed Vertical Adjust</field>
+        <field name="Height">11.8</field>
+        <field name="RS Part Number">5219631</field>
+        <field name="RS Price/Stock">http://befr.rs-online.com/web/p/products/5219631</field>
+        <field name="Manufacturer_Name">Bourns</field>
+        <field name="Manufacturer_Part_Number">3296W-1-102LF</field>
+        <field name="Allied_Number">70153917</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CCW" type="passive"/>
+        <pin num="2" name="WIPER" type="passive"/>
+        <pin num="3" name="CW" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="GRM188R61A226ME15J">
+      <description>Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 22uF 10volts *Derate Voltage/Temp</description>
+      <docs>http://componentsearchengine.com/Datasheets/1/GRM188R61A226ME15J.pdf</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GRM188R61A226ME15J</field>
+        <field name="Footprint">CAPC1608X90N</field>
+        <field name="Datasheet">http://componentsearchengine.com/Datasheets/1/GRM188R61A226ME15J.pdf</field>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 22uF 10volts *Derate Voltage/Temp</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R61A226ME15J</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="GRM188R6YA106MA73D">
+      <description>Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp</description>
+      <docs>http://uk.rs-online.com/web/p/products/1726888P</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GRM188R6YA106MA73D</field>
+        <field name="Footprint">CAPC1608X90N</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/1726888P</field>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 10uF 35volts *Derate Voltage/Temp</field>
+        <field name="Height">0.9</field>
+        <field name="RS Part Number">1726888P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1726888P</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM188R6YA106MA73D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="OKL-T_6-W12N-C">
+      <description>Non-Isolated DC/DC Converters 12Vin .59-5.5Vout 6A 30W Neg Polarity</description>
+      <docs>http://uk.rs-online.com/web/p/products/1736944</docs>
+      <fields>
+        <field name="Reference">PS</field>
+        <field name="Value">OKL-T_6-W12N-C</field>
+        <field name="Footprint">OKLT6W12NC</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/1736944</field>
+        <field name="Description">Non-Isolated DC/DC Converters 12Vin .59-5.5Vout 6A 30W Neg Polarity</field>
+        <field name="Height">7.2</field>
+        <field name="RS Part Number">1736944</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1736944</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">OKL-T/6-W12N-C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ON/OFF_CONTROL" type="passive"/>
+        <pin num="2" name="VIN" type="passive"/>
+        <pin num="3" name="GROUND_1" type="passive"/>
+        <pin num="4" name="VOUT" type="passive"/>
+        <pin num="5" name="SENSE" type="passive"/>
+        <pin num="6" name="TRIM" type="passive"/>
+        <pin num="7" name="GROUND_2" type="passive"/>
+        <pin num="8" name="NO_CONNECTION_1" type="passive"/>
+        <pin num="9" name="SEQUENCE/TRACKING" type="passive"/>
+        <pin num="10" name="POWER_GOOD_OUT" type="passive"/>
+        <pin num="11" name="NO_CONNECTION_2" type="passive"/>
+        <pin num="12" name="NO_CONNECTION_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="RK73B1JTTD102J">
+      <description>Thick Film Resistors - SMD 1/10watts 1Kohms 5%</description>
+      <docs>http://uk.rs-online.com/web/p/products/0431495</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RK73B1JTTD102J</field>
+        <field name="Footprint">RESC1608X55N</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/0431495</field>
+        <field name="Description">Thick Film Resistors - SMD 1/10watts 1Kohms 5%</field>
+        <field name="Height">0.55</field>
+        <field name="RS Part Number">0431495</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/0431495</field>
+        <field name="Manufacturer_Name">KOA Speer</field>
+        <field name="Manufacturer_Part_Number">RK73B1JTTD102J</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="RK73B1JTTD152J">
+      <description>KOA Thick Film Surface Mount Resistor 0603 Case 1.5k +/-5% 0.1W +/-200ppm/C</description>
+      <docs>http://uk.rs-online.com/web/p/products/0431518</docs>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RK73B1JTTD152J</field>
+        <field name="Footprint">RESC1608X55N</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/0431518</field>
+        <field name="Description">KOA Thick Film Surface Mount Resistor 0603 Case 1.5k +/-5% 0.1W +/-200ppm/C</field>
+        <field name="Height">0.55</field>
+        <field name="RS Part Number">0431518</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/0431518</field>
+        <field name="Manufacturer_Name">KOA Speer</field>
+        <field name="Manufacturer_Part_Number">RK73B1JTTD152J</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="SamacSys_Parts" part="SS10P6-M3_86A">
+      <description>Diode Schottky 60V 10A  SMPC</description>
+      <docs>http://uk.rs-online.com/web/p/products/7103667P</docs>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">SS10P6-M3_86A</field>
+        <field name="Footprint">SS10P6M386A</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/7103667P</field>
+        <field name="Description">Diode Schottky 60V 10A  SMPC</field>
+        <field name="Height">1.2</field>
+        <field name="RS Part Number">7103667P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/7103667P</field>
+        <field name="Manufacturer_Name">Vishay</field>
+        <field name="Manufacturer_Part_Number">SS10P6-M3/86A</field>
+        <field name="Allied_Number">70217450</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A_1" type="passive"/>
+        <pin num="2" name="A_2" type="passive"/>
+        <pin num="3" name="K" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="SamacSys_Parts">
+      <uri>C:/Users/Mitsuyoshi Sugaya/Desktop/PCB library/SamacSys_Parts.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="D1" pin="3" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="3" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="PS1" pin="1" pinfunction="ON/OFF_CONTROL" pintype="passive"/>
+      <node ref="PS1" pin="3" pinfunction="GROUND_1" pintype="passive"/>
+      <node ref="PS1" pin="7" pinfunction="GROUND_2" pintype="passive"/>
+      <node ref="PS2" pin="1" pinfunction="ON/OFF_CONTROL" pintype="passive"/>
+      <node ref="PS2" pin="3" pinfunction="GROUND_1" pintype="passive"/>
+      <node ref="PS2" pin="7" pinfunction="GROUND_2" pintype="passive"/>
+      <node ref="VR1" pin="2" pinfunction="WIPER" pintype="passive"/>
+      <node ref="VR1" pin="3" pinfunction="CW" pintype="passive"/>
+      <node ref="VR2" pin="2" pinfunction="WIPER" pintype="passive"/>
+      <node ref="VR2" pin="3" pinfunction="CW" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(C3-Pad1)">
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="A_1" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="PS1" pin="4" pinfunction="VOUT" pintype="passive"/>
+      <node ref="PS1" pin="5" pinfunction="SENSE" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(C4-Pad1)">
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="A_1" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A_2" pintype="passive"/>
+      <node ref="PS2" pin="4" pinfunction="VOUT" pintype="passive"/>
+      <node ref="PS2" pin="5" pinfunction="SENSE" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(PS1-Pad6)">
+      <node ref="PS1" pin="6" pinfunction="TRIM" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(PS2-Pad6)">
+      <node ref="PS2" pin="6" pinfunction="TRIM" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="VR1" pin="1" pinfunction="CCW" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(R2-Pad2)">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="VR2" pin="1" pinfunction="CCW" pintype="passive"/>
+    </net>
+    <net code="10" name="VDD">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="PS1" pin="2" pinfunction="VIN" pintype="passive"/>
+      <node ref="PS2" pin="2" pinfunction="VIN" pintype="passive"/>
+    </net>
+    <net code="11" name="unconnected-(PS1-Pad8)">
+      <node ref="PS1" pin="8" pinfunction="NO_CONNECTION_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="12" name="unconnected-(PS1-Pad9)">
+      <node ref="PS1" pin="9" pinfunction="SEQUENCE/TRACKING" pintype="passive+no_connect"/>
+    </net>
+    <net code="13" name="unconnected-(PS1-Pad10)">
+      <node ref="PS1" pin="10" pinfunction="POWER_GOOD_OUT" pintype="passive+no_connect"/>
+    </net>
+    <net code="14" name="unconnected-(PS1-Pad11)">
+      <node ref="PS1" pin="11" pinfunction="NO_CONNECTION_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="15" name="unconnected-(PS1-Pad12)">
+      <node ref="PS1" pin="12" pinfunction="NO_CONNECTION_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="16" name="unconnected-(PS2-Pad8)">
+      <node ref="PS2" pin="8" pinfunction="NO_CONNECTION_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="17" name="unconnected-(PS2-Pad9)">
+      <node ref="PS2" pin="9" pinfunction="SEQUENCE/TRACKING" pintype="passive+no_connect"/>
+    </net>
+    <net code="18" name="unconnected-(PS2-Pad10)">
+      <node ref="PS2" pin="10" pinfunction="POWER_GOOD_OUT" pintype="passive+no_connect"/>
+    </net>
+    <net code="19" name="unconnected-(PS2-Pad11)">
+      <node ref="PS2" pin="11" pinfunction="NO_CONNECTION_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="20" name="unconnected-(PS2-Pad12)">
+      <node ref="PS2" pin="12" pinfunction="NO_CONNECTION_3" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

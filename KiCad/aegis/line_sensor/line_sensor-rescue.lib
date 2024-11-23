@@ -1,0 +1,40 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# RK73B2BTTD1R0J-SamacSys_Parts-line_sensor-rescue
+#
+DEF RK73B2BTTD1R0J-SamacSys_Parts-line_sensor-rescue R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "RK73B2BTTD1R0J-SamacSys_Parts-line_sensor-rescue" 550 150 50 H V L CNN
+F2 "RESC3216X80N" 550 50 50 H I L CNN
+F3 "https://rs.componentsearchengine.com/Datasheets/1/RK73B2BTTD1R0J.pdf" 550 -50 50 H I L CNN
+F4 "Thick Film Resistors - SMD 1/4watts 1ohms 5%" 550 -150 50 H I L CNN "Description"
+F5 "0.8" 550 -250 50 H I L CNN "Height"
+F6 "KOA Speer" 550 -550 50 H I L CNN "Manufacturer_Name"
+F7 "RK73B2BTTD1R0J" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+# RK73B2BTTD910J-SamacSys_Parts-line_sensor-rescue
+#
+DEF RK73B2BTTD910J-SamacSys_Parts-line_sensor-rescue R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "RK73B2BTTD910J-SamacSys_Parts-line_sensor-rescue" 550 150 50 H V L CNN
+F2 "RESC3216X70N" 550 50 50 H I L CNN
+F3 "https://www.arrow.com/en/products/rk73b2bttd910j/koa-speer-electronics" 550 -50 50 H I L CNN
+F4 "Res Thick Film 1206 91 Ohm 5% 0.25W(1/4W) +/-200ppm/C Pad SMD Automotive T/R" 550 -150 50 H I L CNN "Description"
+F5 "0.7" 550 -250 50 H I L CNN "Height"
+F6 "KOA Speer" 550 -550 50 H I L CNN "Manufacturer_Name"
+F7 "RK73B2BTTD910J" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+ENDDRAW
+ENDDEF
+#
+#End Library

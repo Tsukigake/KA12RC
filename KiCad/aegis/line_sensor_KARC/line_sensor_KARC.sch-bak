@@ -1,0 +1,387 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:Q_Photo_NPN Q1
+U 1 1 608FE2AD
+P 5200 1650
+F 0 "Q1" V 4885 1650 50  0000 C CNN
+F 1 "Q_Photo_NPN" V 4976 1650 50  0000 C CNN
+F 2 "NJL7502L:NJL7502L" H 5400 1750 50  0001 C CNN
+F 3 "~" H 5200 1650 50  0001 C CNN
+	1    5200 1650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:Q_Photo_NPN Q2
+U 1 1 608FF5D7
+P 5200 2200
+F 0 "Q2" V 4885 2200 50  0000 C CNN
+F 1 "Q_Photo_NPN" V 4976 2200 50  0000 C CNN
+F 2 "NJL7502L:NJL7502L" H 5400 2300 50  0001 C CNN
+F 3 "~" H 5200 2200 50  0001 C CNN
+	1    5200 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 6090405E
+P 5550 3400
+F 0 "D1" H 5543 3145 50  0000 C CNN
+F 1 "LED" H 5543 3236 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 5550 3400 50  0001 C CNN
+F 3 "~" H 5550 3400 50  0001 C CNN
+	1    5550 3400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED D2
+U 1 1 60905633
+P 5550 3750
+F 0 "D2" H 5543 3495 50  0000 C CNN
+F 1 "LED" H 5543 3586 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 5550 3750 50  0001 C CNN
+F 3 "~" H 5550 3750 50  0001 C CNN
+	1    5550 3750
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x03_Male J3
+U 1 1 60908B7C
+P 4600 1550
+F 0 "J3" H 4708 1831 50  0000 C CNN
+F 1 "Conn_01x03_Male" H 4708 1740 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" H 4600 1550 50  0001 C CNN
+F 3 "~" H 4600 1550 50  0001 C CNN
+	1    4600 1550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 6090C669
+P 5150 3400
+F 0 "R1" V 4943 3400 50  0000 C CNN
+F 1 "R" V 5034 3400 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5080 3400 50  0001 C CNN
+F 3 "~" H 5150 3400 50  0001 C CNN
+	1    5150 3400
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 6090D60E
+P 5150 3750
+F 0 "R2" V 4943 3750 50  0000 C CNN
+F 1 "R" V 5034 3750 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5080 3750 50  0001 C CNN
+F 3 "~" H 5150 3750 50  0001 C CNN
+	1    5150 3750
+	0    1    1    0   
+$EndComp
+$Comp
+L SamacSys_Parts:3362P-1-203LF R7
+U 1 1 6090F75E
+P 5900 1550
+F 0 "R7" H 6450 1815 50  0000 C CNN
+F 1 "3362P-1-203LF" H 6450 1724 50  0000 C CNN
+F 2 "SamacSys_Parts:3362P_1" H 6850 1650 50  0001 L CNN
+F 3 "http://uk.rs-online.com/web/p/products/5220940P" H 6850 1550 50  0001 L CNN
+F 4 "Bourns 3362P Series Through Hole Trimmer Resistor with Pin Terminations, 20k +/-10% 0.5W +/-100ppm/C Top Adjust" H 6850 1450 50  0001 L CNN "Description"
+F 5 "" H 6850 1350 50  0001 L CNN "Height"
+F 6 "5220940P" H 6850 1250 50  0001 L CNN "RS Part Number"
+F 7 "http://uk.rs-online.com/web/p/products/5220940P" H 6850 1150 50  0001 L CNN "RS Price/Stock"
+F 8 "Bourns" H 6850 1050 50  0001 L CNN "Manufacturer_Name"
+F 9 "3362P-1-203LF" H 6850 950 50  0001 L CNN "Manufacturer_Part_Number"
+F 10 "70154051" H 6850 850 50  0001 L CNN "Allied_Number"
+	1    5900 1550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 1550 4900 2100
+Wire Wire Line
+	4900 2100 5000 2100
+Wire Wire Line
+	4900 1550 5000 1550
+Wire Wire Line
+	5400 1550 5500 1550
+Wire Wire Line
+	5500 1550 5500 2100
+Wire Wire Line
+	5500 2100 5400 2100
+Connection ~ 5500 1550
+Wire Wire Line
+	4800 1550 4900 1550
+Connection ~ 4900 1550
+Wire Wire Line
+	4900 3400 5000 3400
+Wire Wire Line
+	4900 3400 4900 3750
+Wire Wire Line
+	4900 3750 5000 3750
+Connection ~ 4900 3400
+Wire Wire Line
+	5300 3400 5400 3400
+Wire Wire Line
+	5300 3750 5400 3750
+Wire Wire Line
+	5500 1550 5500 1450
+Wire Wire Line
+	5500 1450 4800 1450
+Wire Wire Line
+	5700 3750 5800 3750
+Wire Wire Line
+	5800 3750 5800 3400
+Wire Wire Line
+	5800 3400 5700 3400
+Wire Wire Line
+	5500 1550 5900 1550
+Wire Wire Line
+	5900 1650 5800 1650
+Wire Wire Line
+	5800 1650 5800 1850
+Connection ~ 5800 3400
+Wire Wire Line
+	7000 1550 7000 1850
+Wire Wire Line
+	7000 1850 5800 1850
+Connection ~ 5800 3750
+$Comp
+L Device:Q_Photo_NPN Q3
+U 1 1 6093698F
+P 5200 2750
+F 0 "Q3" V 4885 2750 50  0000 C CNN
+F 1 "Q_Photo_NPN" V 4976 2750 50  0000 C CNN
+F 2 "NJL7502L:NJL7502L" H 5400 2850 50  0001 C CNN
+F 3 "~" H 5200 2750 50  0001 C CNN
+	1    5200 2750
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:Q_Photo_NPN Q4
+U 1 1 60936995
+P 5200 5200
+F 0 "Q4" V 4885 5200 50  0000 C CNN
+F 1 "Q_Photo_NPN" V 4976 5200 50  0000 C CNN
+F 2 "NJL7502L:NJL7502L" H 5400 5300 50  0001 C CNN
+F 3 "~" H 5200 5200 50  0001 C CNN
+	1    5200 5200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:LED D3
+U 1 1 6093699B
+P 5550 4100
+F 0 "D3" H 5543 3845 50  0000 C CNN
+F 1 "LED" H 5543 3936 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 5550 4100 50  0001 C CNN
+F 3 "~" H 5550 4100 50  0001 C CNN
+	1    5550 4100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED D4
+U 1 1 609369A1
+P 5550 6200
+F 0 "D4" H 5543 5945 50  0000 C CNN
+F 1 "LED" H 5543 6036 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 5550 6200 50  0001 C CNN
+F 3 "~" H 5550 6200 50  0001 C CNN
+	1    5550 6200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x03_Male J1
+U 1 1 609369A7
+P 4600 4550
+F 0 "J1" H 4708 4831 50  0000 C CNN
+F 1 "Conn_01x03_Male" H 4708 4740 50  0000 C CNN
+F 2 "Connector_JST:JST_XH_B3B-XH-A_1x03_P2.50mm_Vertical" H 4600 4550 50  0001 C CNN
+F 3 "~" H 4600 4550 50  0001 C CNN
+	1    4600 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 609369AD
+P 5150 4100
+F 0 "R3" V 4943 4100 50  0000 C CNN
+F 1 "R" V 5034 4100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5080 4100 50  0001 C CNN
+F 3 "~" H 5150 4100 50  0001 C CNN
+	1    5150 4100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 609369B3
+P 5150 6200
+F 0 "R4" V 4943 6200 50  0000 C CNN
+F 1 "R" V 5034 6200 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5080 6200 50  0001 C CNN
+F 3 "~" H 5150 6200 50  0001 C CNN
+	1    5150 6200
+	0    1    1    0   
+$EndComp
+$Comp
+L SamacSys_Parts:3362P-1-203LF R5
+U 1 1 609369C0
+P 5900 4550
+F 0 "R5" H 6450 4815 50  0000 C CNN
+F 1 "3362P-1-203LF" H 6450 4724 50  0000 C CNN
+F 2 "SamacSys_Parts:3362P_1" H 6850 4650 50  0001 L CNN
+F 3 "http://uk.rs-online.com/web/p/products/5220940P" H 6850 4550 50  0001 L CNN
+F 4 "Bourns 3362P Series Through Hole Trimmer Resistor with Pin Terminations, 20k +/-10% 0.5W +/-100ppm/C Top Adjust" H 6850 4450 50  0001 L CNN "Description"
+F 5 "" H 6850 4350 50  0001 L CNN "Height"
+F 6 "5220940P" H 6850 4250 50  0001 L CNN "RS Part Number"
+F 7 "http://uk.rs-online.com/web/p/products/5220940P" H 6850 4150 50  0001 L CNN "RS Price/Stock"
+F 8 "Bourns" H 6850 4050 50  0001 L CNN "Manufacturer_Name"
+F 9 "3362P-1-203LF" H 6850 3950 50  0001 L CNN "Manufacturer_Part_Number"
+F 10 "70154051" H 6850 3850 50  0001 L CNN "Allied_Number"
+	1    5900 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4900 4550 4900 5100
+Wire Wire Line
+	4900 5100 5000 5100
+Wire Wire Line
+	4900 4550 5000 4550
+Wire Wire Line
+	5400 4550 5500 4550
+Wire Wire Line
+	5500 4550 5500 5100
+Wire Wire Line
+	5500 5100 5400 5100
+Connection ~ 5500 4550
+Wire Wire Line
+	4800 4550 4900 4550
+Connection ~ 4900 4550
+Wire Wire Line
+	4900 4100 5000 4100
+Connection ~ 4900 5100
+Wire Wire Line
+	4900 6200 5000 6200
+Wire Wire Line
+	5300 4100 5400 4100
+Wire Wire Line
+	5300 6200 5400 6200
+Wire Wire Line
+	5500 4550 5500 4450
+Wire Wire Line
+	5500 4450 4800 4450
+Wire Wire Line
+	5700 6200 5800 6200
+Wire Wire Line
+	5800 4100 5700 4100
+Wire Wire Line
+	5500 4550 5900 4550
+Wire Wire Line
+	5900 4650 5800 4650
+Wire Wire Line
+	5800 4650 5800 4850
+Wire Wire Line
+	7000 4550 7000 4850
+Wire Wire Line
+	7000 4850 5800 4850
+Connection ~ 5800 4850
+Wire Wire Line
+	4800 4650 4800 6300
+Wire Wire Line
+	4800 6300 5800 6300
+Wire Wire Line
+	5800 6300 5800 6200
+Connection ~ 5800 6200
+Wire Wire Line
+	4900 5100 4900 5850
+Wire Wire Line
+	5800 4850 5800 5850
+Wire Wire Line
+	5800 3750 5800 4100
+Wire Wire Line
+	4900 4100 4900 3750
+Connection ~ 4900 3750
+Wire Wire Line
+	4800 4200 5800 4200
+Wire Wire Line
+	5800 4200 5800 4100
+Connection ~ 5800 4100
+$Comp
+L Device:LED D5
+U 1 1 609375E7
+P 5550 5850
+F 0 "D5" H 5543 5595 50  0000 C CNN
+F 1 "LED" H 5543 5686 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 5550 5850 50  0001 C CNN
+F 3 "~" H 5550 5850 50  0001 C CNN
+	1    5550 5850
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 609375ED
+P 5150 5850
+F 0 "R6" V 4943 5850 50  0000 C CNN
+F 1 "R" V 5034 5850 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 5080 5850 50  0001 C CNN
+F 3 "~" H 5150 5850 50  0001 C CNN
+	1    5150 5850
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	5300 5850 5400 5850
+Wire Wire Line
+	4900 5850 5000 5850
+Connection ~ 4900 5850
+Wire Wire Line
+	4900 5850 4900 6200
+Wire Wire Line
+	5700 5850 5800 5850
+Connection ~ 5800 5850
+Wire Wire Line
+	5800 5850 5800 6200
+Wire Wire Line
+	4900 2100 4900 2650
+Connection ~ 4900 2100
+Wire Wire Line
+	5500 2100 5500 2650
+Wire Wire Line
+	5500 2650 5400 2650
+Connection ~ 5500 2100
+Wire Wire Line
+	4800 1650 4800 4200
+Wire Wire Line
+	5800 1850 5800 3400
+Connection ~ 5800 1850
+Wire Wire Line
+	5000 2650 4900 2650
+Connection ~ 4900 2650
+Wire Wire Line
+	4900 2650 4900 3400
+$Comp
+L Device:Q_Photo_NPN Q5
+U 1 1 6094E5F9
+P 5200 4650
+F 0 "Q5" V 4900 4650 50  0000 C CNN
+F 1 "Q_Photo_NPN" V 5000 4650 50  0000 C CNN
+F 2 "NJL7502L:NJL7502L" H 5400 4750 50  0001 C CNN
+F 3 "~" H 5200 4650 50  0001 C CNN
+	1    5200 4650
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7000 1850 7000 4550
+Connection ~ 7000 1850
+Connection ~ 7000 4550
+$EndSCHEMATC
